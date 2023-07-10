@@ -1,0 +1,6 @@
+name: IScareExplosions
+version: 1.0
+main: io.github.andjsrk.iscareexplosions.IScareExplosions
+api-version: 1.20
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.8.22
