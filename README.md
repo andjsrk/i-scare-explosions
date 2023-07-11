@@ -1,5 +1,5 @@
 # i-scare-explosions
-A plugin which prevents explosions caused by ghast/creepers in Minecraft.
+A plugin which prevents block destruction from explosions caused by ghast/creepers in Minecraft.
 
 ## Motivation
 I have disabled game rule `mobGriefing` because I scare explosions,
